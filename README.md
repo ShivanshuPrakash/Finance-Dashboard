@@ -80,7 +80,7 @@ npm run dev
  </pre>
 <pre>
 🌐 Live Demo
-
+https://finance-dashboard-taupe-nine.vercel.app/
 </pre>
 
 
