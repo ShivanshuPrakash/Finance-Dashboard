@@ -16,6 +16,16 @@ A high-performance, interactive, and role-based finance management dashboard bui
 - **Real-time Analytics:** Expense tracking via responsive area and pie charts.
 - **Performance Optimized:** Used `useMemo` for heavy filtering operations.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b5243b1-5b15-4ac9-b3f8-720921c0288d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ee30bad-dffa-453d-b8ed-57923f0450d6" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/47a68f12-e048-415d-88a7-1f5fbb099e61" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/e2e06a6b-5e3c-41b6-9802-1edc65789929" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4e3e92b2-0237-4335-b404-3a26da0dd7b0" />
+
+
+
+
+
 ## 📁 Project Structure
 ``bash
 src/
