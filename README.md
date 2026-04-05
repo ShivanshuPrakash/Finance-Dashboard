@@ -28,12 +28,14 @@ A high-performance, interactive, and role-based finance management dashboard bui
 
 
 ## 📁 Project Structure
+<pre>
 ``bash
 src/
  ├── components/   # Atomic design components (SpendingChart, RightPanel, etc.)
  ├── layout/       # Responsive Dashboard Grid & Sidebars
  ├── context/      # Theme and Auth state management
  └── mockData/     # Centralized data store for consistent UI
+</pre>
 
 ##  Overview 
 
@@ -69,14 +71,17 @@ src/
 
 ## Installation & Setup
 
+## ⚙️ Installation & Setup
+
+``bash
 git clone https://github.com/ShivanshuPrakash/Finance-Dashboard.git
 cd Finance-Dashboard
 npm install
 npm run dev
-
-🌐 Live Demo
-
+<pre>
+ 🌐 Live Demo
 👉 <!-- ADD YOUR VERCEL LINK HERE -->
+</pre>
 
 
 ## My Approach
