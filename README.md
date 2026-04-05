@@ -72,11 +72,12 @@ src/
 
 ## ⚙️ Installation & Setup
 
-``bash
+<pre>
 git clone https://github.com/ShivanshuPrakash/Finance-Dashboard.git
 cd Finance-Dashboard
 npm install
 npm run dev
+ </pre>
 <pre>
 🌐 Live Demo
 
