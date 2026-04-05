@@ -17,14 +17,14 @@ A high-performance, interactive, and role-based finance management dashboard bui
 - **Performance Optimized:** Used `useMemo` for heavy filtering operations.
 
 ## 📁 Project Structure
-```bash
+``bash
 src/
  ├── components/   # Atomic design components (SpendingChart, RightPanel, etc.)
  ├── layout/       # Responsive Dashboard Grid & Sidebars
  ├── context/      # Theme and Auth state management
  └── mockData/     # Centralized data store for consistent UI
 
-##  Key Features
+##  Overview 
 
 ### 1. **Role-Based Access Control (RBAC)**
 - **Admin Mode:** Full access to "New Budget," "Add Transactions," and "Scheduled Payments" actions.
