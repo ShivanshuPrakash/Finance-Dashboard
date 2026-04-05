@@ -29,7 +29,6 @@ A high-performance, interactive, and role-based finance management dashboard bui
 
 ## 📁 Project Structure
 <pre>
-``bash
 src/
  ├── components/   # Atomic design components (SpendingChart, RightPanel, etc.)
  ├── layout/       # Responsive Dashboard Grid & Sidebars
@@ -79,8 +78,8 @@ cd Finance-Dashboard
 npm install
 npm run dev
 <pre>
- 🌐 Live Demo
-👉 <!-- ADD YOUR VERCEL LINK HERE -->
+🌐 Live Demo
+
 </pre>
 
 
