@@ -16,6 +16,7 @@ A high-performance, interactive, and role-based finance management dashboard bui
 - **Real-time Analytics:** Expense tracking via responsive area and pie charts.
 - **Performance Optimized:** Used `useMemo` for heavy filtering operations.
 
+## 📸 Screenshots
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b5243b1-5b15-4ac9-b3f8-720921c0288d" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ee30bad-dffa-453d-b8ed-57923f0450d6" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/47a68f12-e048-415d-88a7-1f5fbb099e61" />
@@ -68,15 +69,16 @@ src/
 
 ## Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/finance-dashboard.git](https://github.com/your-username/finance-dashboard.git)
-
-
-## Install dependencies:
+git clone https://github.com/ShivanshuPrakash/Finance-Dashboard.git
+cd Finance-Dashboard
 npm install
-##  ** Run the development server:
 npm run dev
+
+🌐 Live Demo
+
+👉 <!-- ADD YOUR VERCEL LINK HERE -->
+
+
 ## My Approach
 For this assignment, I prioritized Modular Component Architecture.
 Each UI element (Cards, Charts, ListItems) is a self-contained component, making the codebase scalable.
